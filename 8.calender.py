@@ -1,3 +1,5 @@
 import calendar
-print(calendar.month(2018,3))
+m=int(input("enter the month:"))
+y=int(input("enter the year :"))
+print(calendar.month(y,m))
 
