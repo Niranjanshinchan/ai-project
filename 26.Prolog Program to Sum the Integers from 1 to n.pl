@@ -1,4 +1,3 @@
-@@ -0,0 +1,6 @@
 sum_integers(1, 1).
 sum_integers(N, Sum) :-
     N > 1,
